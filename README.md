@@ -4,7 +4,7 @@ An interactive **Python/Tkinter color picker** inspired by tools like [htmlcolor
 This app lets you select colors using a **hue slider** and **saturation/value square**, preview them in real-time, save with notes, manage a history of chosen colors, and export your palette to a text file.
 
 ---
-![alt text](https://i.postimg.cc/xqmyHJS0/colorpicker.png "Colorpicker UI")
+![alt text](https://postimg.cc/MvP0RhGS "Colorpicker UI")
 
 
 ##  Features
